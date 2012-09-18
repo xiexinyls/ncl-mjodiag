@@ -1,0 +1,7 @@
+load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_code.ncl"
+load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_csm.ncl"
+load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/contributed.ncl"
+load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/shea_util.ncl"
+load "$MJO_CODE/utils/diag_cam_r.ncl"
+load "$MJO_CODE/utils/xx_utils.ncl"
+load "$MJO_CODE/utils/newcon.ncl"
